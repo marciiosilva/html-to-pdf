@@ -17,9 +17,10 @@ Rodando o projeto com Yarn:
 yarn install
 yarn start
 ```
+**Testes realizados usando a ferramenta Postman ( para baixar acesse esse link: https://www.postman.com/ )**
 
-Após isso realizar requisição post na url http://localhost:8080/generate-pdf.
-Testes realizados usando a ferramenta Postman ( https://www.postman.com/ )
+- Após realizar requisição post na url http://localhost:8080/generate-pdf será retornado status HTTP **200 OK** e o Arquivo pdf foi gerado com sucesso. 
+Para baixa-lo no seu postman clique em **'Save Response/ Save to a file'**, ao lado do **Status: 200 OK**.
 
 <!-- CONTRIBUTING -->
 
