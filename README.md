@@ -19,8 +19,14 @@ yarn start
 ```
 **Testes realizados usando a ferramenta Postman ( para baixar acesse esse link: https://www.postman.com/ )**
 
-- Após realizar requisição post na url http://localhost:8080/generate-pdf será retornado status HTTP **200 OK** e o Arquivo pdf foi gerado com sucesso. 
-Para baixa-lo no seu postman clique em **'Save Response/ Save to a file'**, ao lado do **Status: 200 OK**.
+- Após realizar requisição post na url http://localhost:8080/generate-pdf será retornado status HTTP **200 OK**, conforme a imagem abaixo.
+
+![Image description](https://user-images.githubusercontent.com/46344613/81500026-c7f1e780-92a5-11ea-9a22-456b84174319.png)
+
+- Para baixar o pdf gerado no postman clique em **'Save Response/ Save to a file'**, conforme a imagem abaixo.
+
+![Image description](https://user-images.githubusercontent.com/46344613/81500018-b90b3500-92a5-11ea-8a11-b2711e5150f0.png)
+
 
 <!-- CONTRIBUTING -->
 
